@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel GeoIP API SDK
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/yebto/laravel-geoip-api.svg?style=flat-square)](https://packagist.org/packages/yebto/laravel-geoip-api)
@@ -98,3 +99,7 @@ return [
 ---
 
 ✅ Powered by [YEB GeoIP API](https://yeb.to/api/geoip) — your trusted solution for fast and accurate IP geolocation.
+=======
+# laravel-geoip-api
+Laravel SDK wrapper for the YEB GeoIP API. Fetch City, country or ASN information from any IP, with emoji flags.
+>>>>>>> 491b5d9440023e3e26c6b0f959467d63df9df276
